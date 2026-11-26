@@ -48,7 +48,7 @@ puffhouse-pods/
 Clone o repositório:
 
 ```bash
-git clone https://github.com/joaosystemss/puffhouse-pods.git
+git clone https://github.com/1joao-dev/puffhouse-pods.git
 ```
 
 Entre na pasta:
@@ -73,12 +73,12 @@ O projeto estará disponível localmente no endereço indicado pelo Vite.
 
 ## 👨‍💻 Desenvolvimento
 
-Projeto desenvolvido por **João Systems**.
+Projeto desenvolvido por **João | Dev & IA**.
 
-GitHub: https://github.com/joaosystemss
+GitHub: https://github.com/1joao-dev
 
 LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-systems-785268210/
 
 ---
 
-© 2026 João Systems — Puff House Pods
+© 2026 João | Dev & IA — Puff House Pods
